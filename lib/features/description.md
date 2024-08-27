@@ -1,7 +1,7 @@
 # Feature Folder
-* Contains the features of the project.
-* Like:
-* authentication (note that feature name is snake_case)
+Contains the features of the project.
+Like:
+authentication (note that feature name is snake_case)
 - data
   - models
   - repositories
